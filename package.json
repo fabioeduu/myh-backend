@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "node dist/src/server-express.js",
+    "start": "node dist/server-express.js",
     "start:dev": "ts-node-dev --respawn --transpile-only src/server-express.ts",
     "build": "tsc -p tsconfig.build.json"
   },
