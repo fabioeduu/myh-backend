@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "slug": "produto-1",
+    "title": "Peça 1",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 184,
+    "originalPrice": 249,
+    "discount": 26,
+    "sizes": [
+      "34",
+      "42"
+    ],
+    "colors": [
+      "Azul",
+      "Branco"
+    ],
+    "image": "/produtos/2.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 2,
+    "slug": "produto-2",
+    "title": "Peça 2",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 188,
+    "originalPrice": 242,
+    "discount": 22,
+    "sizes": [
+      "34",
+      "38"
+    ],
+    "colors": [
+      "Branco",
+      "Preto"
+    ],
+    "image": "/produtos/3.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 3,
+    "slug": "produto-3",
+    "title": "Peça 3",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 99,
+    "originalPrice": 138,
+    "discount": 28,
+    "sizes": [
+      "40",
+      "36"
+    ],
+    "colors": [
+      "Preto",
+      "Branco"
+    ],
+    "image": "/produtos/4.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 4,
+    "slug": "produto-4",
+    "title": "Peça 4",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 87,
+    "originalPrice": 152,
+    "discount": 43,
+    "sizes": [
+      "42",
+      "34"
+    ],
+    "colors": [
+      "Branco",
+      "Preto"
+    ],
+    "image": "/produtos/5.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 5,
+    "slug": "produto-5",
+    "title": "Peça 5",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 153,
+    "originalPrice": 193,
+    "discount": 21,
+    "sizes": [
+      "36",
+      "34"
+    ],
+    "colors": [
+      "Preto",
+      "Branco"
+    ],
+    "image": "/produtos/6.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 6,
+    "slug": "produto-6",
+    "title": "Peça 6",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 106,
+    "originalPrice": 139,
+    "discount": 24,
+    "sizes": [
+      "40",
+      "38"
+    ],
+    "colors": [
+      "Preto",
+      "Azul"
+    ],
+    "image": "/produtos/1.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 7,
+    "slug": "produto-7",
+    "title": "Peça 7",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 127,
+    "originalPrice": 173,
+    "discount": 27,
+    "sizes": [
+      "36",
+      "42"
+    ],
+    "colors": [
+      "Branco",
+      "Azul"
+    ],
+    "image": "/produtos/2.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 8,
+    "slug": "produto-8",
+    "title": "Peça 8",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 109,
+    "originalPrice": 186,
+    "discount": 41,
+    "sizes": [
+      "40",
+      "34"
+    ],
+    "colors": [
+      "Branco",
+      "Preto"
+    ],
+    "image": "/produtos/3.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 9,
+    "slug": "produto-9",
+    "title": "Peça 9",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 135,
+    "originalPrice": 160,
+    "discount": 16,
+    "sizes": [
+      "42",
+      "38"
+    ],
+    "colors": [
+      "Branco",
+      "Azul"
+    ],
+    "image": "/produtos/4.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 10,
+    "slug": "produto-10",
+    "title": "Peça 10",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 144,
+    "originalPrice": 201,
+    "discount": 28,
+    "sizes": [
+      "42",
+      "36"
+    ],
+    "colors": [
+      "Azul",
+      "Branco"
+    ],
+    "image": "/produtos/5.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 11,
+    "slug": "produto-11",
+    "title": "Peça 11",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 107,
+    "originalPrice": 165,
+    "discount": 35,
+    "sizes": [
+      "36",
+      "42"
+    ],
+    "colors": [
+      "Branco",
+      "Preto"
+    ],
+    "image": "/produtos/6.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 12,
+    "slug": "produto-12",
+    "title": "Peça 12",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 118,
+    "originalPrice": 146,
+    "discount": 19,
+    "sizes": [
+      "36",
+      "40"
+    ],
+    "colors": [
+      "Azul",
+      "Branco"
+    ],
+    "image": "/produtos/1.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 13,
+    "slug": "produto-13",
+    "title": "Peça 13",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 99,
+    "originalPrice": 158,
+    "discount": 37,
+    "sizes": [
+      "38",
+      "34"
+    ],
+    "colors": [
+      "Preto",
+      "Azul"
+    ],
+    "image": "/produtos/2.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 14,
+    "slug": "produto-14",
+    "title": "Peça 14",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 86,
+    "originalPrice": 160,
+    "discount": 46,
+    "sizes": [
+      "36",
+      "42"
+    ],
+    "colors": [
+      "Preto",
+      "Branco"
+    ],
+    "image": "/produtos/3.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 15,
+    "slug": "produto-15",
+    "title": "Peça 15",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 78,
+    "originalPrice": 147,
+    "discount": 47,
+    "sizes": [
+      "42",
+      "40"
+    ],
+    "colors": [
+      "Branco",
+      "Preto"
+    ],
+    "image": "/produtos/4.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 16,
+    "slug": "produto-16",
+    "title": "Peça 16",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 170,
+    "originalPrice": 239,
+    "discount": 29,
+    "sizes": [
+      "40",
+      "34"
+    ],
+    "colors": [
+      "Preto",
+      "Azul"
+    ],
+    "image": "/produtos/5.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 17,
+    "slug": "produto-17",
+    "title": "Peça 17",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 102,
+    "originalPrice": 144,
+    "discount": 29,
+    "sizes": [
+      "36",
+      "34"
+    ],
+    "colors": [
+      "Branco",
+      "Preto"
+    ],
+    "image": "/produtos/6.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 18,
+    "slug": "produto-18",
+    "title": "Peça 18",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 91,
+    "originalPrice": 129,
+    "discount": 29,
+    "sizes": [
+      "36",
+      "42"
+    ],
+    "colors": [
+      "Branco",
+      "Preto"
+    ],
+    "image": "/produtos/1.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 19,
+    "slug": "produto-19",
+    "title": "Peça 19",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 68,
+    "originalPrice": 134,
+    "discount": 49,
+    "sizes": [
+      "38",
+      "40"
+    ],
+    "colors": [
+      "Branco",
+      "Azul"
+    ],
+    "image": "/produtos/2.svg",
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 20,
+    "slug": "produto-20",
+    "title": "Peça 20",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 131,
+    "originalPrice": 182,
+    "discount": 28,
+    "sizes": [
+      "38",
+      "36"
+    ],
+    "colors": [
+      "Branco",
+      "Azul"
+    ],
+    "image": "/produtos/3.svg",
+    "installments": 6,
+    "new": false
+  }
+]
