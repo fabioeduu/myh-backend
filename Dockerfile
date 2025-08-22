@@ -7,17 +7,17 @@ WORKDIR /app
 # Copiar package.json e package-lock.json
 COPY package*.json ./
 
-# Instalar dependências
-RUN npm ci --legacy-peer-deps
+# Instalar dependências (mais tolerante que npm ci)
+RUN npm install --legacy-peer-deps
 
-# Copiar todo o código
+# Copiar todo o código da aplicação
 COPY . .
 
 # Compilar TypeScript
 RUN npm run build
 
-# Expor porta
+# Expor a porta da aplicação
 EXPOSE 3001
 
-# Comando para iniciar
+# Comando para iniciar a aplicação
 CMD ["node", "dist/server-express.js"]
